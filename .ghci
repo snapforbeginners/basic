@@ -1,0 +1,2 @@
+:m Data.ByteString Snap.Core
+:set prompt "*Main> "
